@@ -8,7 +8,7 @@ import jsonfield.fields
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('cms', '0022_auto_20180620_1551'),
+        ('cms', '0016_auto_20160608_1535'),
         ('contenttypes', '__latest__'),
     ]
 
